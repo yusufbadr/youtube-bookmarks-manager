@@ -98,11 +98,6 @@ The background script is responsible for:
 - **`styles.css`**: The stylesheet for styling the popup interface.
 - **`assets/`**: Directory with images for bookmark buttons and icons.
 
-## Screenshots
-
-**Bookmark Button:**
-
-## Screenshots
 
 ## Screenshots
 
