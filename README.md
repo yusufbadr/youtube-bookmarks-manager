@@ -49,7 +49,7 @@ If you are not on a specific YouTube video page, such as the YouTube homepage or
 To install the YouTube Bookmarks Manager extension, follow these steps:
 
 1. **Download the Extension Files**:
-   - Clone or download the repository containing the extension files from [GitHub](https://github.com/your-repo/you-tube-bookmarks-manager).
+   - Clone or download the repository containing the extension files from [GitHub](https://github.com/yusufbadr/youtube-bookmarks-manager.git).
 
 2. **Open Chrome**:
    - Launch Google Chrome on your computer.
