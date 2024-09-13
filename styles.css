@@ -1,0 +1,69 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    margin: 20px;
+}
+
+
+#container {
+    width: 500px;
+    background-color: #1e1e1e;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+
+#page-title, .main-video-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #e0e0e0;
+    margin-bottom: 20px;
+}
+
+
+.video-title, .bookmark-description {
+    font-size: 16px;
+    color: #e0e0e0;
+    flex-grow: 1;
+    margin-right: 10px;
+    overflow-wrap: break-word;
+}
+
+.video-container, .bookmark-container {
+    display: flex;
+    align-items: flex-start;
+    padding: 10px;
+    border-bottom: 1px solid #333;
+    width: 100%;
+}
+
+
+.video-container:hover, .bookmark-container:hover {
+    background-color: #333;
+}
+
+.video-container:last-child, .bookmark-container:last-child {
+    border-bottom: none;
+}
+
+.video-controls, .bookmarks-controls {
+    display: flex;
+    align-items: center;
+}
+
+.video-controls img, .bookmarks-controls img {
+    width: 24px;
+    height: 24px;
+    margin-left: 10px;
+    cursor: pointer;
+    filter: brightness(0) invert(1);
+}
+
+#not-youtube {
+    font-size: 15px;
+    font-weight: bold;
+    color: #e0e0e0;
+}
